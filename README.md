@@ -29,6 +29,8 @@
 
 ![Снимок экрана от 2024-01-18 21-51-19](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/5ecc3193-752a-4e4e-a1b7-26db88d90026)
 ![Снимок экрана от 2024-01-18 21-56-13](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/f61d0288-097f-4237-8d66-bce59de389f3)
+
+Содержимое terraform.tfstate  
 ```terraform
 {
   "version": 4,
