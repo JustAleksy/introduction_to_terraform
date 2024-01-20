@@ -10,8 +10,7 @@
 
 ## **Пункт - 3**
 
-Не очень понял, ну наверное оно:
-"result": "Nx20O14HTfgS1RQG"
+Не очень понял, ну наверное оно:  "result": "Nx20O14HTfgS1RQG"
 
 ## **Пункт - 4**
 
@@ -33,7 +32,7 @@
 
 ## **Пункт - 8**
 
-keep_locally = true - а это значит что образ не удаляется при дестрое. Для удаления - False. 
+keep_locally = true - а это значит что образ не удаляется при дестрое. Для удаления - False.  
 keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
 
-![Снимок экрана от 2024-01-18 22-33-34](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/d7c84603-d221-4290-aa40-dd46770c4cc7)
+![Снимок экрана от 2024-01-18 22-33-34](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/d7c84603-d221-4290-aa40-dd46770c4cc7)  
