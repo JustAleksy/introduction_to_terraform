@@ -29,7 +29,17 @@
 
 ![Снимок экрана от 2024-01-18 21-51-19](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/5ecc3193-752a-4e4e-a1b7-26db88d90026)
 ![Снимок экрана от 2024-01-18 21-56-13](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/f61d0288-097f-4237-8d66-bce59de389f3)
-![Снимок экрана от 2024-01-18 22-05-09](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/7f461053-58bf-4426-bfab-a8de1475b93d)
+```terraform
+{
+  "version": 4,
+  "terraform_version": "1.5.7",
+  "serial": 37,
+  "lineage": "0a45c26c-7e22-de4c-1c0a-0978b13afb18",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+}
+```
 
 ## **Пункт - 8**
 
