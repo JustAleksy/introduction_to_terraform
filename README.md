@@ -20,16 +20,14 @@
 ## **Пункт - 5**
 
 ![Снимок экрана от 2024-01-18 21-47-27](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/0d235e65-3616-4657-9c93-5f1495bb5230)
-
-## **Пункт 6**
-
 ![Снимок экрана от 2024-01-18 21-47-46](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/2e9fe079-7eb1-4baa-952e-6071a61e4ec9)
 
-## **Пункт - 7**
+## **Пункт 6**
 
 ![Снимок экрана от 2024-01-18 21-51-19](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/5ecc3193-752a-4e4e-a1b7-26db88d90026)
 ![Снимок экрана от 2024-01-18 21-56-13](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/f61d0288-097f-4237-8d66-bce59de389f3)
 
+## **Пункт - 7**
 Содержимое terraform.tfstate  
 ```terraform
 {
