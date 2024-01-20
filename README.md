@@ -44,6 +44,7 @@
 ## **Пункт - 8**
 
 `keep_locally = true` - а это значит что образ не удаляется при дестрое.  
+
 ```terraform
 resource "docker_image" "nginx" {
   name         = "nginx:latest"
@@ -51,13 +52,15 @@ resource "docker_image" "nginx" {
 }
 ```
 `keep_locally = false` - для удаления.  
+
 ```terraform
 resource "docker_image" "nginx" {
   name         = "nginx:latest"
   keep_locally = false
 }
 ```
-> **`keep_locally`** (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
+
+> `keep_locally` (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
 
 ![Снимок экрана от 2024-01-18 22-33-34](https://github.com/JustAleksy/introduction_to_terraform/assets/143338652/d7c84603-d221-4290-aa40-dd46770c4cc7)  
 
